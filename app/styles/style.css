@@ -51,12 +51,12 @@ Tags: light, white, single page, multipurpose, multi page, custom-colors, Bootst
 
 @font-face {
   font-family: Dax;
-  src: url("../assets/fonts/DaxCompact/DAXCOMPL.ttf");
+  src: url("/assets/fonts/DaxCompact/DAXCOMPL.ttf");
 }
 
 @font-face {
   font-family: DaxBold;
-  src: url("../assets/fonts/DaxCompact/DAXCOMEB.ttf");
+  src: url("/assets/fonts/DaxCompact/DAXCOMEB.ttf");
 }
 
 .thickdax{
